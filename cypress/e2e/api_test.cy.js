@@ -1,6 +1,6 @@
 // API Test for https://reqres.in/ to Create, Read, Update and Delete Users data
 
-describe('CRUD Users API Tests for ', () => {
+describe('Create Read Update and Delete Users API', () => {
   it('should create a new user', () => {
     const user = {
       name: 'Wahyu',
